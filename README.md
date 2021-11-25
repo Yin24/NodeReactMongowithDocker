@@ -1,5 +1,5 @@
 # paymentcalculation
-********************************* How to run (without docker)********************************* 
+********************************* No docker********************************* 
 ## How to run the API
 
 1. Navigate to /api directory.
@@ -16,6 +16,7 @@
 3. run commannd> npm start
 4. Access via http://localhost:3000/
 
+********************************* Docker********************************* 
 
 ## Docker
 1. Navigate to root directory
