@@ -1,4 +1,4 @@
-# Node.js with React.js (paymentcalculation)
+# Node.js + React.js + MongoDB +Docker + (paymentcalculation)
 
 ## How to run the API
 
