@@ -1,4 +1,4 @@
-# paymentcalculation
+# Node.js with React.js (paymentcalculation)
 
 ## How to run the API
 
